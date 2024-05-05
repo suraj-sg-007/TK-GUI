@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 # create window open program using library tkinter
 import os
@@ -282,20 +277,6 @@ search_btn.pack(padx=5, pady=30, side=tk.RIGHT)
 
 root.mainloop()  # used to continue window
 
-# print(sid.get(),name.get(),degree.get(),class_.get(),phone.get(),email.get(),)
-
-
-
-
-
-
-
-
-
-
-
-
-# In[ ]:
 
 
 
